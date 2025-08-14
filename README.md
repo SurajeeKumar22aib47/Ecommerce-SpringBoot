@@ -158,5 +158,4 @@
     "mobileId": "9999999999",
     "password": "surajee123456" 
 }
-    "password": "shyam123456"
-}
+    
